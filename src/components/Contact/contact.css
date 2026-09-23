@@ -1,5 +1,5 @@
 #contactPage{
-    min-width: calc(100vh - 4rem);
+    min-height: calc(100vh - 4rem);
     width: 100vw;
     max-width: 60rem;
     margin: 0 auto;
@@ -46,7 +46,7 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    width: 900vw;
+    width: 90vw;
     max-width: 60rem;
 }
 
